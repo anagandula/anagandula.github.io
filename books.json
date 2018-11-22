@@ -1,0 +1,7 @@
+[
+    {"name": "Java", "code": "JA"},
+    {"name": "C++", "code": "CP"},
+    {"name": "Matlab", "code": "MT"},
+    {"name": "Software Engineering", "code": "SE"},
+    {"name": "Machines", "code": "MC"}
+]
